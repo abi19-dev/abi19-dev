@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulah Đulović</h1>
 <h3 align="center">A passionate software engineering student from Bosnia & Herzegovina.</h3>
 
-<p float="left">- 🌱 I’m currently learning **C#, ReactJS**</p>
+- 🌱 I’m currently learning **C#, ReactJS**
 
 - 📫 How to reach me: **abdulahdulovic@gmail.com**
 
