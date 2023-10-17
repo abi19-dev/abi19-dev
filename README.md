@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **C#, ReactJS**
 
 - 📫 How to reach me: **abdulahdulovic@gmail.com**
-<div id="header" align="center">
+<div id="header" align="right" display = "flex">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 </div>
 
