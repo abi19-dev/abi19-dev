@@ -22,11 +22,11 @@
 
 ###
 
-<p align="left">🎯 I’m currently learning:</p>
-
-###
-
 <img align="right" height="99" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
+##
+
+<p align="left">🎯 I’m currently learning:</p>
 
 ###
 
