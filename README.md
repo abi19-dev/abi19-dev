@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" height="99" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -23,10 +27,6 @@
 ###
 
 <p align="left">🎯 I’m currently learning:</p>
-
-###
-
-<img align="right" height="99" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
