@@ -26,15 +26,15 @@
 
 ###
 
+<img align="right" height="99" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-
-###
-
-<img align="right" height="99" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
