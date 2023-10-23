@@ -22,10 +22,6 @@
 
 ###
 
-<img align="right" height="99" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-##
-
 <p align="left">🎯 I’m currently learning:</p>
 
 ###
@@ -35,6 +31,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
+
+###
+
+<img align="right" height="99" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
