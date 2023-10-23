@@ -47,7 +47,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/abi19-dev/abi19-dev/output/snake.svg" alt="Snake animation" />
-
-###
